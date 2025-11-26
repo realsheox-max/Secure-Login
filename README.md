@@ -118,6 +118,10 @@ HWID Reset
 Tool Login first Time
 <img width="1116" height="628" alt="image" src="https://github.com/user-attachments/assets/19a0837d-81b8-4d82-91f6-e75c88e3abce" />
 
+Anti Bruteforce:
+<img width="1122" height="626" alt="image" src="https://github.com/user-attachments/assets/25b56df9-d636-49ff-872c-023ce7e28f38" />
+
+
 
 
 
