@@ -102,3 +102,23 @@ sudo ufw allow 443/tcp
 sudo ufw allow 22/tcp
 sudo ufw allow 3000/tcp
 sudo ufw enable
+
+admin tool:
+<img width="382" height="531" alt="image" src="https://github.com/user-attachments/assets/d29c7fde-a51b-4663-9cb3-9e0d3307ea1d" />
+<img width="447" height="691" alt="image" src="https://github.com/user-attachments/assets/f5b5e991-09bc-4230-8999-274933fad73d" />
+Ohne HWID login nur per Website
+<img width="939" height="859" alt="image" src="https://github.com/user-attachments/assets/3d2a3727-e2a4-4df3-8d39-cc8e8039ed7d" />
+Mit Login über das Tool
+<img width="930" height="765" alt="image" src="https://github.com/user-attachments/assets/8c28ccf9-62d4-4a69-aba0-8f46cbcaf6d6" />
+HWID
+<img width="997" height="1075" alt="image" src="https://github.com/user-attachments/assets/0b5d3db8-7f28-49ba-816d-6996febae1f8" />
+HWID Reset
+<img width="1018" height="908" alt="image" src="https://github.com/user-attachments/assets/931e37e8-9452-4bf7-84f1-6ed4c3ddd145" />
+<img width="522" height="147" alt="image" src="https://github.com/user-attachments/assets/09658131-0f48-4fb9-ad9a-a2fe7c458009" />
+Tool Login first Time
+<img width="1116" height="628" alt="image" src="https://github.com/user-attachments/assets/19a0837d-81b8-4d82-91f6-e75c88e3abce" />
+
+
+
+
+
