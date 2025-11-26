@@ -45,6 +45,7 @@ Ordner OPT / VAR / ETC hochladen ( schauen das man keine index.html hat im var/W
 
 
 # 2. nginx.conf bearbeiten und das so einfügen bzw nachtragen
+
 http {
 	## das muss rein !!!
 	limit_req_zone $binary_remote_addr zone=api_limit:10m rate=10r/s;
